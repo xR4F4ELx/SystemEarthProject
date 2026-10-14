@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Earth Engine exports: large, re-creatable from scripts/export_layers.py + manifest
+data/raw/*
+!data/raw/.gitkeep

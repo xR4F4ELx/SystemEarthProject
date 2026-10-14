@@ -1,0 +1,108 @@
+{
+  "manifest_id": "aoi-ci_tai_soubre-2026-10-13",
+  "built_utc": "2026-10-14T08:28:32+00:00",
+  "source_export": {
+    "manifest_id": "aoi-ci_tai_soubre-2026-10-13",
+    "aoi_bounds_wsen": [
+      -7.1,
+      5.6,
+      -6.6,
+      6.05
+    ],
+    "export_date_utc": "2026-10-13T11:42:26Z",
+    "cutoff_date": "2020-12-31",
+    "datasets": {
+      "gfc2020": {
+        "id": "JRC/GFC2020/V4",
+        "bands": [
+          "Map"
+        ]
+      },
+      "hansen": {
+        "id": "UMD/hansen/global_forest_change_2025_v1_13",
+        "bands": [
+          "treecover2000",
+          "loss",
+          "lossyear",
+          "datamask"
+        ]
+      },
+      "radd": {
+        "id": "projects/radar-wur/raddalert/v1",
+        "image": "africa_20261007"
+      },
+      "wdpa": {
+        "id": "WCMC/WDPA/current/polygons",
+        "features_in_aoi": 5
+      }
+    }
+  },
+  "grid": {
+    "crs": "EPSG:4326",
+    "transform": [
+      8.333333333333333e-05,
+      0.0,
+      -7.099999999999994,
+      0.0,
+      -8.333333333333333e-05,
+      6.050083333333333
+    ],
+    "width": 6001,
+    "height": 5402
+  },
+  "encoding": {
+    "base": "uint16: bit15 forest_2020, bits12-14 sources (1 hansen, 2 radd_high, 4 radd_low), bits0-11 days after 2020-12-31 (0 = none)",
+    "cog": {
+      "compress": "ZSTD",
+      "level": 19,
+      "blocksize": 512
+    }
+  },
+  "base_state": {
+    "radd_until_yyddd": 26181,
+    "hansen_max_year": 2024
+  },
+  "state": {
+    "radd_until_yyddd": 99366,
+    "hansen_max_year": 2025
+  },
+  "event_batches": [
+    {
+      "batch": "2026-10-07",
+      "rows": 3989,
+      "since": {
+        "radd_until_yyddd": 26181,
+        "hansen_max_year": 2024
+      },
+      "until": {
+        "radd_until_yyddd": 99366,
+        "hansen_max_year": 2025
+      },
+      "path": "events/2026-10-07.parquet",
+      "bytes": 22670,
+      "sha256": "e7a12d90d8c87b5a921d59dcdc5811f386d26a0797ca78894bc97f792b69b01a"
+    }
+  ],
+  "files": [
+    {
+      "path": "base.tif",
+      "bytes": 95784,
+      "sha256": "16940b1856d30fc9c4d964d65c86020534a0aa00aba536e7c57e3a7f19d89f33"
+    },
+    {
+      "path": "protected_areas.parquet",
+      "bytes": 18751,
+      "sha256": "037293f2d693968dc4b11712e27e4670c335ca91fccfc0e79d077a3a8256a829"
+    },
+    {
+      "path": "plot_index.parquet",
+      "bytes": 70392,
+      "sha256": "9ce2b6db5e35ef4b736115f90175069728bb6a7de5e08472eb3e981cf311cbe9"
+    },
+    {
+      "path": "plot_pa.parquet",
+      "bytes": 3373,
+      "sha256": "37106d6aab224759eff6631aed65572dc46886d07d66267ccdd6c835f3f50dcc"
+    }
+  ]
+}

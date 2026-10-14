@@ -1,0 +1,7 @@
+earthengine-api
+rasterio
+geopandas
+numpy
+pytest
+duckdb
+pyarrow

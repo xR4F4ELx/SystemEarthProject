@@ -1,0 +1,501 @@
+plot_id,declared_layer,declared_c2,our_c2,our_final_status,matches_declaration,mismatch_reason,forest_2020_ha,disturbed_after_cutoff_ha,first_disturbance_date,disturbance_sources,manifest_id
+CI-0001,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,loss_not_on_2020_forest,0.8079,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0002,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.1904,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0003,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0004,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0005,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0006,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.0292,0.0595,2025-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0007,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0008,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0009,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0010,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Needs review,True,,0.4081,0.0085,2022-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0011,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0012,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.3315,0.1275,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0013,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.8503,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0014,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,10.0105,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0015,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.6417,1.0378,2023-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0016,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0017,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0018,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0019,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0020,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0021,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Non-compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0022,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0023,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0024,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0025,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Needs review,False,loss_after_declared_window,0.9101,0.0085,2025-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0026,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0027,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,7.591,0.1105,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0028,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,8.3063,0.3656,2024-09-07,radd_high;radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0029,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0030,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0031,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.2636,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0032,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.2636,0.0255,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0033,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,4.4632,0.2635,2024-10-13,radd_high;radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0034,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0035,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0036,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0037,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0038,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0039,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0040,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.1226,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0041,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0042,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0043,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,3.1125,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0044,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0045,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0046,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0047,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0048,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0049,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0050,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0085,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0051,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0052,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0053,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0054,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Needs review,True,,0.7229,0.0085,2025-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0055,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,6.1908,0.1361,2021-04-20,radd_high;radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0056,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0057,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.1308,0.4336,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0058,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.148,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0059,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0060,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0061,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0062,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0063,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.8675,0.051,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0064,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0065,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0066,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.7991,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0067,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0068,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0069,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,5.3327,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0070,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0071,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0072,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0073,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,4.0894,0.0765,2025-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0074,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0075,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.7399,0.3062,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0076,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.3572,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0077,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0078,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0079,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0080,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0081,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,1.5304,0.4761,2021-01-02,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0082,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0083,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0084,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,2.8319,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0085,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0086,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0087,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,6.0808,0.2041,2023-05-04,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0088,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.4082,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0089,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.7908,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0090,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.2756,0.927,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0091,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,2.6278,0.2551,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0092,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.2845,0.638,2023-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0093,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.8844,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0094,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,4.1484,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0095,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0096,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.4933,0.1446,2022-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0097,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0098,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0099,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0100,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0101,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0102,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,loss_after_declared_window,0.5953,0.2466,2025-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0103,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0104,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,3.5622,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0105,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,loss_after_declared_window,0.5103,0.0255,2025-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0106,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0595,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0107,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0108,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,3.5876,0.0425,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0109,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0110,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.1786,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0111,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0112,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0113,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0935,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0114,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.7738,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0115,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,1.0031,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0116,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.9976,0.4505,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0117,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0118,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0119,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0120,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0121,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0122,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0123,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,3.2319,0.1276,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0124,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.5528,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0125,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0126,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.7171,0.3825,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0127,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,loss_after_declared_window,0.5104,0.1191,2025-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0128,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,2.0159,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0129,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0130,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Non-compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0131,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0132,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0133,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,loss_after_declared_window,1.063,0.051,2025-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0134,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.5783,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0135,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0136,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,5.7064,0.3062,2022-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0137,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0138,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0139,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.6037,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0140,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0141,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0142,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.2891,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0143,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0144,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,1.2589,0.5699,2024-12-24,radd_high;radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0145,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0146,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0147,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,3.4352,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0148,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0149,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0150,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0151,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0152,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.7058,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0153,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.876,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0154,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,2.0827,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0155,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0156,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,2.2538,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0157,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0158,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0159,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,3.895,0.051,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0160,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.4424,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0161,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,1.3862,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0162,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0163,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.9778,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0164,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.1445,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0165,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0166,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.4965,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0167,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.6244,0.8675,2022-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0168,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.068,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0169,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,loss_after_declared_window,1.9905,1.1739,2023-11-12,hansen;radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0170,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0171,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0172,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0173,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,1.9129,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0174,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0175,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.7314,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0176,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.4849,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0177,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0178,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0179,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,3.6745,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0180,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0181,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.8418,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0182,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0183,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0184,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,2.0665,0.4677,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0185,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.7993,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0186,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.7228,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0187,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,0.5017,0.2296,2023-09-25,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0188,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,2.9754,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0189,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0190,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,1.4198,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0191,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.667,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0192,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,3.1632,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0193,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0194,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0195,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0196,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0197,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.4337,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0198,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0199,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0200,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.4798,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0201,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0202,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0203,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0204,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.6038,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0205,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0206,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.0881,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0207,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.1276,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0208,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.5134,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0209,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0210,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,3.3421,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0211,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0212,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0213,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,3.7925,0.3827,2023-09-13,radd_high;radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0214,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,1.2333,0.2382,2021-01-02,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0215,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0216,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,2.0756,0.3318,2026-07-06,radd_high;radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0217,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.3352,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0218,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0219,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0220,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.9296,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0221,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0222,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,2.5601,0.2807,2026-07-30,radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0223,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0224,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0225,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.9267,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0226,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0227,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.9526,0.0936,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0228,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,loss_after_declared_window,1.4033,0.2126,2025-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0229,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0230,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0231,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,2.2288,0.7571,2023-07-27,radd_high;radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0232,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,0.4848,0.068,2025-11-25,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0233,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Needs review,False,loss_after_declared_window,0.6801,0.017,2025-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0234,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Non-compliant,False,loss_not_on_2020_forest,2.6873,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0235,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0236,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.7484,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0237,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.4337,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0238,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0239,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0240,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0241,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0242,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.4848,0.3147,2022-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0243,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.7484,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0244,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0245,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.097,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0246,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,2.2961,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0247,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Non-compliant,False,loss_not_on_2020_forest,0.017,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0248,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0249,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.4934,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0250,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0251,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.978,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0252,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.3692,0.4677,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0253,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0254,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0255,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0256,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0257,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.7909,0.5443,2022-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0258,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,1.4121,0.3913,2022-11-29,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0259,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0260,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.6973,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0261,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.0376,0.4678,2022-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0262,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.5101,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0263,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0264,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.7569,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0265,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,2.0161,0.4594,2023-10-19,radd_high;radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0266,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0267,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.3096,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0268,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0269,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,loss_not_on_2020_forest,0.3231,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0270,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,loss_after_declared_window,0.187,0.0935,2024-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0271,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0272,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0273,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0274,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0275,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0276,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.6889,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0277,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0278,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.4762,0.1106,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0279,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,1.4714,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0280,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0281,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.5358,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0282,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0283,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0284,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,loss_after_declared_window,0.5273,0.2466,2024-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0285,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0286,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0287,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0288,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.4115,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0289,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0290,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0291,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.7484,0.4252,2023-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0292,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0293,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,4.0815,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0294,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0255,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0295,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.0884,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0296,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0297,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0298,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.8332,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0299,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,2.3983,0.3742,2024-08-26,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0300,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.3742,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0301,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0302,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.4422,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0303,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0304,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0305,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0306,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0307,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.5018,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0308,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0309,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,loss_after_declared_window,0.5698,0.3657,2025-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0310,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.4167,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0311,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,2.823,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0312,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0313,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0314,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,1.3948,0.3402,2023-12-06,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0315,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0316,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.978,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0317,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,2.8066,0.2041,2022-05-09,radd_high;radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0318,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.4081,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0319,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.6634,0.2466,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0320,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.2295,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0321,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0322,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0323,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.8335,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0324,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.5613,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0325,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0326,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,loss_after_declared_window,2.8151,0.944,2024-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0327,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,2.3729,0.4423,2021-07-25,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0328,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,2.5683,0.0425,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0329,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0330,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,6.8274,0.5697,2021-07-25,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0331,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.6208,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0332,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0333,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0334,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0335,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,loss_after_declared_window,1.2674,0.5189,2025-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0336,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0337,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.4457,0.2296,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0338,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0339,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0340,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0341,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,2.1255,0.2041,2023-05-04,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0342,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0343,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0344,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0345,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0346,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0347,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0348,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.4592,0.068,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0349,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.2806,0.034,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0350,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Non-compliant,False,loss_not_on_2020_forest,0.5951,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0351,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.471,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0352,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0353,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.3694,0.6804,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0354,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0355,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.706,0.1021,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0356,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,3.3498,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0357,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,loss_after_declared_window,0.9865,0.068,2025-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0358,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0359,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.4593,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0360,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,4.7639,0.2297,2023-11-24,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0361,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.5189,0.2041,2024-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0362,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0363,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0364,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,2.4654,0.6716,2022-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0365,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,2.679,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0366,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0367,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0368,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.5731,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0369,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,4.074,0.1956,2022-08-13,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0370,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.6921,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0371,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0372,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0373,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,1.2418,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0374,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.5187,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0375,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,1.4878,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0376,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0377,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.978,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0378,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,1.0456,0.017,2026-06-05,radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0379,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,1.9051,0.1871,2023-06-21,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0380,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,1.429,0.2977,2023-12-18,radd_high;radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0381,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0382,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0383,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0384,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0385,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0386,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0387,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,7.3631,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0388,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.017,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0389,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.0802,0.051,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0390,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,2.5341,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0391,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.4761,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0392,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0393,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.1144,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0394,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0395,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,1.9481,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0396,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0397,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.3997,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0398,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0399,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.7909,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0400,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.9184,0.1701,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0401,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0402,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.5443,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0403,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,6.9743,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0404,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0405,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.6719,0.051,2023-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0406,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,loss_not_on_2020_forest,0.7057,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0407,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0408,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0409,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0410,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0411,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0412,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0413,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0414,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.5615,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0415,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,2.2025,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0416,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0417,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.9387,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0418,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0419,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,3.1283,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0420,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0421,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.6039,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0422,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,4.2347,0.3231,2023-12-06,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0423,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0424,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.3996,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0425,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.9016,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0426,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,2.5344,0.0765,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0427,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,2.1004,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0428,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0429,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0430,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.9693,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0431,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0432,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,2.9935,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0433,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0434,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.3435,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0435,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.6719,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0436,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,1.7089,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0437,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.7094,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0438,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0439,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.5613,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0440,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0441,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.9098,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0442,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0443,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.6208,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0444,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0445,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.6209,0.1361,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0446,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0447,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0448,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.4421,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0449,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.8332,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0450,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Needs review,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0451,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0452,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.7058,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0453,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0454,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0455,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0456,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.5783,0.4507,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0457,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0458,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0459,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.5272,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0460,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,1.7174,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0461,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.2465,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0462,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0463,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0464,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0465,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0466,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,loss_not_on_2020_forest,0.4592,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0467,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0468,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.9865,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0469,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,3.0616,0.2126,2023-09-13,radd_high;radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0470,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0471,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.6378,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0472,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0473,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0474,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,1.1908,0.3232,2023-05-16,radd_high,aoi-ci_tai_soubre-2026-10-13
+CI-0475,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0476,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,3.5132,0.5189,2022-06-14,radd_high;radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0477,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,0.1785,0.017,2021-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0478,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0479,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,0.3401,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0480,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.9866,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0481,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.3998,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0482,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0483,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.4677,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0484,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,2.1175,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0485,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,1.0206,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0486,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,4.3619,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0487,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0488,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,b. Indication of deforestation,Non-compliant,True,,1.3867,0.4424,2024-01-01,hansen,aoi-ci_tai_soubre-2026-10-13
+CI-0489,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.5953,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0490,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Non-compliant,True,,1.0634,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0491,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,2.467,0.3488,2024-04-16,radd_high;radd_low,aoi-ci_tai_soubre-2026-10-13
+CI-0492,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,1.2671,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0493,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.9694,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0494,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Needs review,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0495,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0496,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.3997,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0497,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,a. No Indication of deforestation,Compliant,True,,0.7144,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0498,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0499,Hansen Tree Cover Loss 2021-2023,b. Indication of deforestation,a. No Indication of deforestation,Compliant,False,no_2020_forest_in_plot,0.0,0.0,,,aoi-ci_tai_soubre-2026-10-13
+CI-0500,Hansen Tree Cover Loss 2021-2023,a. No Indication of deforestation,b. Indication of deforestation,Non-compliant,False,radd_alert_outside_declared_layer,2.4239,0.2636,2022-09-30,radd_high,aoi-ci_tai_soubre-2026-10-13

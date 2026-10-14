@@ -1,0 +1,36 @@
+{
+  "manifest_id": "aoi-ci_tai_soubre-2026-10-13",
+  "aoi_bounds_wsen": [
+    -7.1,
+    5.6,
+    -6.6,
+    6.05
+  ],
+  "export_date_utc": "2026-10-13T11:42:26Z",
+  "cutoff_date": "2020-12-31",
+  "datasets": {
+    "gfc2020": {
+      "id": "JRC/GFC2020/V4",
+      "bands": [
+        "Map"
+      ]
+    },
+    "hansen": {
+      "id": "UMD/hansen/global_forest_change_2025_v1_13",
+      "bands": [
+        "treecover2000",
+        "loss",
+        "lossyear",
+        "datamask"
+      ]
+    },
+    "radd": {
+      "id": "projects/radar-wur/raddalert/v1",
+      "image": "africa_20261007"
+    },
+    "wdpa": {
+      "id": "WCMC/WDPA/current/polygons",
+      "features_in_aoi": 5
+    }
+  }
+}
