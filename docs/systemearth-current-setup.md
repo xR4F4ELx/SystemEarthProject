@@ -1,6 +1,17 @@
 # How SystemEarth handles data today
 
-**Source authority:** the email below is from SystemEarth's **product manager**; Matthew Saw is the **CTO**. Where they disagree on the technical stack, the CTO's answers (further down) take precedence. In particular, the forest analysis runs in Earth Engine, not PostGIS.
+**Source authority (Rafael, 14 Oct):** the **product manager's answers below are the latest and the source of truth**. Where the CTO's earlier answers (further down) conflict, they are superseded.
+
+## Product manager's answers, latest (received 14 Oct 2026) — source of truth
+
+| Question | Answer (paraphrased) | What it means for us |
+|---|---|---|
+| Where do layers live? | **Vector layers in PostGIS; rasters in Google Cloud Storage, served through GeoServer.** Analysis compute runs on Google Earth Engine | They *do* store raster copies, so storage efficiency is a real comparison again (raw rasters in GCS vs our compact store). Their checks still use paid Earth Engine compute |
+| Re-check every past lot on update? | **No, not automatically.** Users can run a **manual or scheduled reanalysis** of a past lot with current layers. Some lots don't need it, e.g. when the deforestation event happens **after the harvest** | Drop "they re-check everything". Our value is telling users **which** past lots an update actually affects (the affected-plot query) and making scheduled reanalysis cheap and targeted. The harvest-date point fits the event log: only events dated before a lot's harvest can matter for that lot |
+| Record the dataset version behind each verdict? | **Yes, plus a full audit trail**: plot changes (modified, added, deleted), when analysis ran, and versions of the supply shed | Reproducibility is fully covered on their side. Our manifest is compatible, not a differentiator |
+| Commercial Earth Engine? Cost per check? | **Commercial licence, Earth Engine "Enterprise Basic" pricing** (cloud.google.com/earth-engine/pricing) | Per-check cost = EECU used × the Basic plan's EECU price; our measured EECU per check can be priced directly |
+
+## Product manager's original description
 
 ## Product manager's description (email reply to Rafael)
 
@@ -15,7 +26,7 @@
 | Approach | How it works | Strength | Weakness |
 |---|---|---|---|
 | Scheduled scraping | Python + cron on own server | Simple, cheap | Fixed schedule, not change-driven; likely re-downloads whole files |
-| Downloaded and stored | Google Cloud Storage + PostGIS | Control, fast serving | Per the CTO, not used for the forest analysis; possibly other data or map serving (unconfirmed) |
+| Downloaded and stored | Google Cloud Storage (rasters, served via GeoServer) + PostGIS (vectors) | Control, fast serving | Confirmed by the PM's latest answers; stores full raster copies the decision mostly doesn't need |
 | Left at source (Earth Engine) | Analysis runs on Google | No storage/compute of their own | Remote call per check (latency, quotas, cost if commercial licence — unconfirmed); not reproducible when datasets change underneath |
 
 Serving (GeoServer, Mapbox) is for map display, not compliance queries — out of scope.
@@ -31,11 +42,13 @@ Note: Rafael decided the design should **not** be constrained by this stack. It'
 
 SystemEarth's current use case: 17 smallholder **rubber** plots, factory RG1, lot 200001, Chai Buri district, Surat Thani, Thailand. Details in `docs/research-notes.md`.
 
-## Answers from Matthew Saw (CTO) to Rafael's questions, 14 Oct 2026
+## Answers from Matthew Saw (CTO), 14 Oct 2026 — superseded where they conflict with the PM's latest answers above
+
+Superseded: "no PostGIS, layers in Earth Engine" (PM: vectors in PostGIS, rasters in GCS) and "re-check every past lot" (PM: manual or scheduled reanalysis, user's choice). Still consistent: versions are recorded; Earth Engine is commercial.
 
 | Question | Answer (paraphrased) | What it means for us |
 |---|---|---|
-| Which layers live in PostGIS, whole or cropped? | They don't use PostGIS for this; the **forest layers are used in Google Earth Engine** | Their "original layers" query path is a remote Earth Engine computation per check. That is what our query comparison must beat. (The product manager's email mentions PostGIS; the CTO's answer takes precedence.) |
+| Which layers live in PostGIS, whole or cropped? | They don't use PostGIS for this; the **forest layers are used in Google Earth Engine** | Their "original layers" query path is a remote Earth Engine computation per check. That is what our query comparison must beat. (Superseded: the PM's latest answer says vectors live in PostGIS and rasters in GCS.) |
 | Re-check every past lot when a layer updates? | **Yes, and they call it a source of inefficiency** | Our incremental re-check addresses a pain they named themselves. Lead with it |
 | Record the dataset version behind each verdict? | **Yes** | The manifest is table stakes, not a differentiator. Don't pitch "they can't reproduce verdicts" |
 | Commercial Earth Engine licence? Cost per check? | **Commercial; cost is confidential but "relatively expensive"** | Every check and every re-check costs Earth Engine compute. Moving checks off Earth Engine is the cost case; Earth Engine is then only used for extraction on updates |

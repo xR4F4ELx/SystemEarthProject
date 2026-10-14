@@ -1,0 +1,288 @@
+{
+  "manifest_id": "aoi-ci_tai_soubre-2026-10-13",
+  "storage": {
+    "aoi_km2": 2755.6309188067476,
+    "raw_files": {
+      "ci_tai_soubre_gfc2020.tif": {
+        "bytes": 418786,
+        "uncompressed_bytes": 32417402
+      },
+      "ci_tai_soubre_hansen.tif": {
+        "bytes": 4244090,
+        "uncompressed_bytes": 14415204
+      },
+      "ci_tai_soubre_radd.tif": {
+        "bytes": 959429,
+        "uncompressed_bytes": 223169896
+      },
+      "ci_tai_soubre_wdpa.geojson": {
+        "bytes": 431169
+      }
+    },
+    "compact_layer_files": {
+      "base.tif": 95784,
+      "protected_areas.parquet": 18751,
+      "manifest.json": 2556,
+      "events/2026-10-07.parquet": 22670
+    },
+    "plot_side_files": {
+      "plot_index.parquet": 70392,
+      "plot_pa.parquet": 3373
+    },
+    "raw_compressed_bytes": 6053474,
+    "raw_uncompressed_bytes": 270433671,
+    "compact_layer_bytes": 139761,
+    "ratio_vs_raw_compressed": 43.313041549502366,
+    "ratio_vs_raw_uncompressed": 1934.972352802284,
+    "compact_bytes_per_km2": 50.718330617555914,
+    "raw_bytes_per_km2": 2196.765161359597,
+    "plot_side_bytes_per_plot": 147.53
+  },
+  "fidelity": {
+    "before_update": {
+      "plots": 500,
+      "decision_fidelity": 1.0,
+      "decision_fidelity_by_stratum": {
+        "classified_forest": 1.0,
+        "cocoa_land": 1.0,
+        "forest_fragment": 1.0,
+        "inside_park": 1.0,
+        "park_boundary": 1.0
+      },
+      "field_fidelity": {
+        "c2_deforestation_spatial_analysis_result": 1.0,
+        "d1_strict_protected_area_spatial_analysis_result": 1.0,
+        "d2_restricted_use_area_spatial_analysis_result": 1.0,
+        "final_status": 1.0,
+        "review_reasons": 1.0,
+        "first_disturbance_date": 1.0,
+        "disturbance_sources": 1.0,
+        "pa_overlap_names": 1.0,
+        "n_cells": 1.0,
+        "n_forest_cells": 1.0,
+        "n_disturbed_cells": 1.0,
+        "manifest_id": 1.0
+      },
+      "max_area_diff_ha": {
+        "forest_2020_ha": 0.0,
+        "disturbed_after_cutoff_ha": 0.0
+      },
+      "mean_area_diff_ha": {
+        "forest_2020_ha": 0.0,
+        "disturbed_after_cutoff_ha": 0.0
+      }
+    },
+    "after_incremental_update": {
+      "plots": 500,
+      "decision_fidelity": 1.0,
+      "decision_fidelity_by_stratum": {
+        "classified_forest": 1.0,
+        "cocoa_land": 1.0,
+        "forest_fragment": 1.0,
+        "inside_park": 1.0,
+        "park_boundary": 1.0
+      },
+      "field_fidelity": {
+        "c2_deforestation_spatial_analysis_result": 1.0,
+        "d1_strict_protected_area_spatial_analysis_result": 1.0,
+        "d2_restricted_use_area_spatial_analysis_result": 1.0,
+        "final_status": 1.0,
+        "review_reasons": 1.0,
+        "first_disturbance_date": 1.0,
+        "disturbance_sources": 1.0,
+        "pa_overlap_names": 1.0,
+        "n_cells": 1.0,
+        "n_forest_cells": 1.0,
+        "n_disturbed_cells": 1.0,
+        "manifest_id": 1.0
+      },
+      "max_area_diff_ha": {
+        "forest_2020_ha": 0.0,
+        "disturbed_after_cutoff_ha": 0.0
+      },
+      "mean_area_diff_ha": {
+        "forest_2020_ha": 0.0,
+        "disturbed_after_cutoff_ha": 0.0
+      }
+    },
+    "pixel": {
+      "cells": 32417402,
+      "forest_bit": 1.0,
+      "disturbance_date": 1.0,
+      "sources": 1.0
+    }
+  },
+  "query": {
+    "raw_local": {
+      "load_layers_s": 1.851599207991967,
+      "evaluate_plots_s": 0.1734971670084633,
+      "per_plot_ms": 0.3469943340169266,
+      "bytes_read_to_load": 5622305
+    },
+    "compact_all_plots": {
+      "plots": 500,
+      "cells": 178720,
+      "tiles_read": 112,
+      "bytes_read": 85753,
+      "index_s": 0.06031054101185873,
+      "tile_read_s": 0.21229850000236183,
+      "rules_s": 0.06275712500791997,
+      "total_s": 0.33536616602214053
+    },
+    "compact_single_plot": {
+      "sample": 50,
+      "median_total_ms": 32.31452150794212,
+      "median_bytes_read": 908.0,
+      "median_tiles_read": 1.0
+    },
+    "incremental_update": {
+      "plots": 39,
+      "cells": 15751,
+      "tiles_read": 35,
+      "bytes_read": 29551,
+      "index_s": 0.02202104200841859,
+      "tile_read_s": 0.019642375002149493,
+      "rules_s": 0.02460466598859057,
+      "total_s": 0.08695095800794661,
+      "affected_plots": 39,
+      "total_plots": 500,
+      "find_affected_s": 0.02068287500878796
+    }
+  },
+  "rebuild": {
+    "encode_s": 3.9117613330017775,
+    "rewritten_bytes": 101074,
+    "full_recheck": {
+      "plots": 500,
+      "cells": 178720,
+      "tiles_read": 112,
+      "bytes_read": 85753,
+      "index_s": 0.03854691699962132,
+      "tile_read_s": 0.2161658749973867,
+      "rules_s": 0.05051366600673646,
+      "total_s": 0.3052264580037445
+    }
+  },
+  "sensitivity": [
+    {
+      "min_cells": 1,
+      "edge_share": 0.005,
+      "status_counts": {
+        "Compliant": 248,
+        "Non-compliant": 176,
+        "Needs review": 76
+      },
+      "plots_changed_vs_default": 8
+    },
+    {
+      "min_cells": 1,
+      "edge_share": 0.01,
+      "status_counts": {
+        "Compliant": 248,
+        "Non-compliant": 172,
+        "Needs review": 80
+      },
+      "plots_changed_vs_default": 4
+    },
+    {
+      "min_cells": 1,
+      "edge_share": 0.02,
+      "status_counts": {
+        "Compliant": 248,
+        "Non-compliant": 171,
+        "Needs review": 81
+      },
+      "plots_changed_vs_default": 5
+    },
+    {
+      "min_cells": 3,
+      "edge_share": 0.005,
+      "status_counts": {
+        "Compliant": 248,
+        "Non-compliant": 172,
+        "Needs review": 80
+      },
+      "plots_changed_vs_default": 4
+    },
+    {
+      "min_cells": 3,
+      "edge_share": 0.01,
+      "status_counts": {
+        "Compliant": 248,
+        "Non-compliant": 168,
+        "Needs review": 84
+      },
+      "plots_changed_vs_default": 0
+    },
+    {
+      "min_cells": 3,
+      "edge_share": 0.02,
+      "status_counts": {
+        "Compliant": 248,
+        "Non-compliant": 167,
+        "Needs review": 85
+      },
+      "plots_changed_vs_default": 1
+    },
+    {
+      "min_cells": 5,
+      "edge_share": 0.005,
+      "status_counts": {
+        "Compliant": 248,
+        "Non-compliant": 169,
+        "Needs review": 83
+      },
+      "plots_changed_vs_default": 7
+    },
+    {
+      "min_cells": 5,
+      "edge_share": 0.01,
+      "status_counts": {
+        "Compliant": 248,
+        "Non-compliant": 165,
+        "Needs review": 87
+      },
+      "plots_changed_vs_default": 3
+    },
+    {
+      "min_cells": 5,
+      "edge_share": 0.02,
+      "status_counts": {
+        "Compliant": 248,
+        "Non-compliant": 164,
+        "Needs review": 88
+      },
+      "plots_changed_vs_default": 4
+    },
+    {
+      "min_cells": 10,
+      "edge_share": 0.005,
+      "status_counts": {
+        "Compliant": 248,
+        "Non-compliant": 161,
+        "Needs review": 91
+      },
+      "plots_changed_vs_default": 15
+    },
+    {
+      "min_cells": 10,
+      "edge_share": 0.01,
+      "status_counts": {
+        "Compliant": 248,
+        "Non-compliant": 157,
+        "Needs review": 95
+      },
+      "plots_changed_vs_default": 11
+    },
+    {
+      "min_cells": 10,
+      "edge_share": 0.02,
+      "status_counts": {
+        "Compliant": 248,
+        "Non-compliant": 156,
+        "Needs review": 96
+      },
+      "plots_changed_vs_default": 12
+    }
+  ]
+}

@@ -55,15 +55,16 @@ Wider re-check needed when: a baseline layer is revised (e.g. GFC2020 v5 → reb
 
 ## Unconstrained-stack choices vs SystemEarth today
 
-"Today" is per the CTO's answers (14 Oct, `docs/systemearth-current-setup.md`), which take precedence over the earlier product-manager email.
+"Today" is per the product manager's latest answers (14 Oct, `docs/systemearth-current-setup.md`), which are the source of truth.
 
 | Area | Today | Target |
 |---|---|---|
-| Re-checks | All past lots on every layer update (CTO: "a source of inefficiency") | Only affected plots |
-| Query engine | Google Earth Engine, commercial licence, paid per check | DuckDB over local/object-storage files (serverless) |
-| Change storage | None: each check recomputes against the full layers in Earth Engine | Event log, GeoParquet by month |
-| Scheduling | Cron | Change-triggered orchestrator (e.g. Dagster) — slide only |
-| Forest-layer copies | Not kept; layers stay in Earth Engine | Compact decision store only; raw re-extracted from source when needed; manifest records versions (they already record versions too) |
+| Re-checks | Manual or scheduled reanalysis of past lots, chosen by the user (e.g. skipped when deforestation happened after the harvest) | The system lists exactly which lots an update affects; reanalysis runs only on those, optionally only with events dated before each lot's harvest |
+| Query engine | Earth Engine compute, commercial (Enterprise Basic), paid per EECU | DuckDB over local/object-storage files (serverless) |
+| Change storage | None: each reanalysis recomputes against the full layers | Event log, one Parquet file per release |
+| Scheduling | Cron, manual or scheduled reanalysis | Change-triggered orchestrator (e.g. Dagster) — slide only |
+| Layer copies | Rasters in Google Cloud Storage (served via GeoServer), vectors in PostGIS | Compact decision store; raw re-extracted from source when needed |
+| Audit | Dataset versions and a full audit trail already recorded | Manifest per verdict, compatible with their trail |
 
 ## Demo scope
 

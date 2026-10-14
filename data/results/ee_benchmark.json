@@ -1,0 +1,27 @@
+{
+  "project": "systemearthproject",
+  "single": {
+    "sample": 20,
+    "median_s": 0.5073579375020927,
+    "min_s": 0.40196583297802135,
+    "max_s": 6.8583025409898255,
+    "agreement_with_baseline": {
+      "plots": 20,
+      "forest_cells_exact": 0.7,
+      "disturbed_cells_exact": 1.0,
+      "c2_same": 1.0
+    }
+  },
+  "batch": {
+    "plots": 500,
+    "total_s": 7.931582500023069,
+    "per_plot_ms": 15.863165000046138,
+    "agreement_with_baseline": {
+      "plots": 500,
+      "forest_cells_exact": 0.814,
+      "disturbed_cells_exact": 0.994,
+      "c2_same": 1.0
+    }
+  },
+  "profile_file": "ee_profile.txt"
+}

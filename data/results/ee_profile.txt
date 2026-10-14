@@ -1,0 +1,50 @@
+ EECU·s PeakMem Count  Description
+ 11.064    7.0M   336  Algorithm Image.unmask computing pixels
+  3.980     15M 51729  (plumbing)
+  0.736    2.3M   210  Algorithm Image.load computing pixels
+  0.695    6.1M   808  no description available
+  0.618    2.4M    45  Algorithm Image.reduceRegions
+  0.266    1.1M   240  Loading assets: UMD/hansen/global_forest_change_2025_v1_13@1777573507020386
+  0.250    2.8M   452  Loading assets: projects/radar-wur/raddalert/v1/(...)
+  0.052    542k   343  Loading assets: JRC/GFC2020/V4@1790188200185407
+  0.050     12k   396  Algorithm Image.unmask
+  0.025     22k   174  Listing collection
+  0.023    5.5k   267  Algorithm Image.select
+  0.019     592   336  Algorithm Image.constant computing pixels
+  0.018    4.1k   264  Algorithm Image.rename
+  0.018    3.7k   264  Algorithm Image.gte
+  0.016    4.0k   132  Algorithm Image.and
+  0.016    4.0k   132  Algorithm Image.or
+  0.012      88   168  Reprojecting pixels from EPSG:4326 to EPSG:4326
+  0.011    4.5k   528  Algorithm Image.constant
+  0.004    4.4k   264  Algorithm Image.eq
+  0.004     520   168  Algorithm Image.gte computing pixels
+  0.003    3.0k   131  Algorithm ReduceRegions.AggregationContainer
+  0.003    4.2k   132  Algorithm Image.addBands
+  0.002     912    84  Algorithm Image.or computing pixels
+  0.002    3.0M    84  Computing image mask from geometry
+  0.002   1,008    84  Algorithm Image.and computing pixels
+  0.002     520    84  Algorithm Image.eq computing pixels
+   -       3.5M   340  Loading assets: projects/radar-wur/raddalert/v1
+   -       1.1M   240  Loading assets: UMD/hansen/global_forest_change_2025_v1_13
+   -       727k   250  Loading assets: JRC/GFC2020/V4
+   -       659k   132  Algorithm Collection
+   -       625k    44  Algorithm List.(construct from elements)
+   -        22k   500  Algorithm GeometryConstructors.Polygon
+   -        20k   524  Algorithm Image.load
+   -        16k     4  Algorithm Collection.first
+   -       8.9k     3  Algorithm ImageCollection.load
+   -       8.7k    44  Algorithm Projection
+   -       7.2k    43  Algorithm ReduceRegions.ReduceRegionsEnumerator
+   -       5.9k 66000  Algorithm Feature
+   -       3.5k     3  Algorithm Collection.limit
+   -       3.5k     6  Algorithm Collection.filter
+   -       3.2k    43  Algorithm Reducer.forEach
+   -       3.0k     3  Algorithm Filter.eq
+   -       3.0k     3  Algorithm Filter.stringContains
+   -       2.6k    44  Algorithm Reducer.unweighted
+   -       2.5k     4  Loading assets: projects/radar-wur/raddalert
+   -       2.5k   162  Loading assets: JRC/GFC2020
+   -       2.5k   148  Loading assets: UMD/hansen
+   -       1.8k 21500  Algorithm Dictionary.(construct from elements)
+   -        608    44  Algorithm Reducer.sum
