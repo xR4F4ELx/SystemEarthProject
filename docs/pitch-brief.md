@@ -144,8 +144,17 @@ Two columns:
 | Why not keep Earth Engine? | Cost per check and latency; we still use it once per release |
 | Classified forests only "review"? | Legally restricted but heavily farmed; a legality question for a human |
 
-## Backup demo (record before Saturday)
-Run from the repo root with the venv active; each step prints its result:
+## Live demo: the demo console
+Run from the repo root with the venv active, then click the five steps in the sidebar (Build → Check → Publish release → Re-check affected → Verify supplier):
+
+```
+streamlit run app/demo_console.py
+```
+
+The map shows plots by verdict over the 2020 forest; the metrics row shows store size, check time, plots re-checked and the live match against the raw-layer pipeline. A page refresh keeps progress. Double-click or +/− to zoom.
+
+## Backup demo (terminal; record before Saturday)
+`bash scripts/demo.sh` runs the same flow, one step per Enter. Or step by step from the repo root, with the venv active:
 
 ```
 python scripts/encode_layers.py build --radd-until 2026-06-30 --hansen-max-year 24

@@ -95,10 +95,12 @@ Original day plan: Mon scope → Tue raw data + baseline → Wed layer analysis 
 - `docs/systemearth-current-setup.md` — how SystemEarth handles data today + datasets they pointed to
 - `docs/research-notes.md` — EUDR status, dataset facts, sample-data findings, pain points, Treefera, judge Q&A
 - `docs/business-case.md` — why Côte d'Ivoire cocoa, who pays, measured value (23% vs 0.12% flagged), judge challenges
+- `docs/design-rationale.md` — every design choice by judging criterion: SystemEarth today vs ours, why, trade-off, judge answer
 - `docs/pitch-brief.md` — slide-by-slide brief handed to Claude Design (claims rules, numbers, notes, demo script)
 - `docs/evaluation.md` — step 6 results: storage, query vs Earth Engine, fidelity, sensitivity, budget
 - `docs/decision-spec.md` — decision rules contract
 - `docs/architecture.md` — target architecture, demo scope
 - `data/sample/` — SystemEarth's sample (17 Thai rubber plots: CSV + GeoJSON)
 - `data/raw/` — Earth Engine exports go here (not committed)
-- `scripts/` — pipeline scripts
+- `scripts/` — pipeline scripts; `scripts/demo.sh` = terminal demo (Enter per step)
+- `app/demo_console.py` — Streamlit demo console (`streamlit run app/demo_console.py`): buttons run the real pipeline steps; map, metrics, live fidelity vs raw pipeline; progress persists across page refresh (`data/results/demo_console_state.json`)

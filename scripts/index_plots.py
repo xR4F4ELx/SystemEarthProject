@@ -78,13 +78,10 @@ def build_index(plots, grid, protected):
     return index, plot_pa
 
 
-def main():
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--plots", type=Path, default=PLOTS_DIR / "plots.geojson")
-    args = parser.parse_args()
-
+def write_index(plots_path=PLOTS_DIR / "plots.geojson"):
+    """Index the plots into the store and record the files in the manifest. Returns summary counts."""
     manifest = load_manifest()
-    index, plot_pa = build_index(gpd.read_file(args.plots), manifest_grid(manifest), gpd.read_parquet(PA_PATH))
+    index, plot_pa = build_index(gpd.read_file(plots_path), manifest_grid(manifest), gpd.read_parquet(PA_PATH))
     pq.write_table(index, PLOT_INDEX_PATH, compression=PARQUET_COMPRESSION)
     pq.write_table(plot_pa, PLOT_PA_PATH, compression=PARQUET_COMPRESSION)
 
@@ -93,8 +90,17 @@ def main():
     manifest["files"] += [file_record(PLOT_INDEX_PATH), file_record(PLOT_PA_PATH)]
     save_manifest(manifest)
     n_cells = sum(e - s + 1 for s, e in zip(index["col_start"].to_pylist(), index["col_end"].to_pylist()))
-    print(f"Indexed {len(set(index['plot_id'].to_pylist()))} plots: {n_cells} cells in {index.num_rows} runs, "
-          f"{plot_pa.num_rows} protected-area overlaps")
+    return {"plots": len(set(index["plot_id"].to_pylist())), "cells": n_cells, "runs": index.num_rows,
+            "pa_overlaps": plot_pa.num_rows}
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser.add_argument("--plots", type=Path, default=PLOTS_DIR / "plots.geojson")
+    args = parser.parse_args()
+    summary = write_index(args.plots)
+    print(f"Indexed {summary['plots']} plots: {summary['cells']} cells in {summary['runs']} runs, "
+          f"{summary['pa_overlaps']} protected-area overlaps")
 
 
 if __name__ == "__main__":
