@@ -5,3 +5,4 @@ numpy
 pytest
 duckdb
 pyarrow
+matplotlib
