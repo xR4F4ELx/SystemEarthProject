@@ -1,6 +1,6 @@
 {
-  "manifest_id": "aoi-ci_tai_soubre-2026-10-13",
-  "built_utc": "2026-10-15T08:20:24+00:00",
+  "manifest_id": "aoi-ci_tai_soubre-2026-10-13|radd<=26181|hansen<=2024",
+  "built_utc": "2026-10-16T10:05:15+00:00",
   "source_export": {
     "manifest_id": "aoi-ci_tai_soubre-2026-10-13",
     "aoi_bounds_wsen": [
@@ -63,26 +63,10 @@
     "hansen_max_year": 2024
   },
   "state": {
-    "radd_until_yyddd": 99366,
-    "hansen_max_year": 2025
+    "radd_until_yyddd": 26181,
+    "hansen_max_year": 2024
   },
-  "event_batches": [
-    {
-      "batch": "2026-10-07",
-      "rows": 3989,
-      "since": {
-        "radd_until_yyddd": 26181,
-        "hansen_max_year": 2024
-      },
-      "until": {
-        "radd_until_yyddd": 99366,
-        "hansen_max_year": 2025
-      },
-      "path": "events/2026-10-07.parquet",
-      "bytes": 22670,
-      "sha256": "e7a12d90d8c87b5a921d59dcdc5811f386d26a0797ca78894bc97f792b69b01a"
-    }
-  ],
+  "event_batches": [],
   "files": [
     {
       "path": "base.tif",
