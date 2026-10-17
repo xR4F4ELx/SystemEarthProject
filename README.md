@@ -2,7 +2,7 @@
 
 **EUDR plot verification for Ivory Coast cocoa:** a compact, query-fast store that reproduces every plot verdict. Built for the SystemEarth hackathon, October 2026.
 
-📊 **Deck:** [Google Drive link](https://drive.google.com/) *(replace with the shared link)* · 📝 **Memo:** [docs/submission-memo.md](docs/submission-memo.md) · 📈 **Full results:** [docs/evaluation.md](docs/evaluation.md)
+📝 **Memo:** [docs/submission-memo.md](docs/submission-memo.md) · 📈 **Full results:** [docs/evaluation.md](docs/evaluation.md)
 
 ![Plot verdicts over the 2020 forest, with a 10 m zoom on plots changed by a data release](docs/figures/aoi_map.png)
 
